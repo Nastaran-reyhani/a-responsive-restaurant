@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url(../fonts/Inter/static/Inter_18pt-Regular.ttf);
+@import url(../fonts/David_Libre/DavidLibre-Medium.ttf);
+ .bg{
+    background-image: url(../img/bgsec2.png);
+    background-position: center;
+ }
+ .bg2{
+   background-image: url(../img/bgsec3.png);
+   /* background-position: center; */
+ }
+ .bg3{
+  background-image: url(../img/egg.png);
+  background-size: cover;
+ }
