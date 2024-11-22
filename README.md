@@ -10,4 +10,4 @@
 
 - Role - Frontend
 
-- How to reach me : with my [linkedin](https://www.linkedin.com/in/nastaran-reyhani-905b81337) and [gmail](reyhaninas@gmail.com)
+- How to reach me : with my [linkedin](https://www.linkedin.com/in/nastaran-reyhani-905b81337) 
